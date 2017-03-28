@@ -37,3 +37,5 @@
 *  git push -u origin gh-pages
 
 * 12.预览地址：http://shimilygood.github.io/web
+
+# shimilygood.github.io如果以这个为GitHub目录，master分支也可以直接被预览
